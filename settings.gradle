@@ -1,0 +1,4 @@
+include ':lib'
+include ':JavaAls'
+include ':app'
+rootProject.name = "JavaAlDemo"
